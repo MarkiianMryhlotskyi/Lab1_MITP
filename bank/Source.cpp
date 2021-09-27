@@ -169,17 +169,19 @@ void main() {
 	cout << "               *  ÂÀÑ ÏÐÅÄÑÒÀÂËßª ÏÐÈÂÀÒÁÀÍÊ  *\n";
 	cout << "               ********************************\n\n";
 
-	const int a = 3;
+	const int a = 4;
 	int arrlogin[a];
 	int arrparol[a];
 
 	arrlogin[0] = 1;
 	arrlogin[1] = 2;
 	arrlogin[2] = 3;
+	arrlogin[3] = 4;
 
-	arrparol[0] = 1111;
-	arrparol[1] = 2222;
-	arrparol[2] = 3333;
+	arrparol[0] = 4361;
+	arrparol[1] = 5153;
+	arrparol[2] = 7895;
+	arrparol[3] = 1111;
 
 
 
