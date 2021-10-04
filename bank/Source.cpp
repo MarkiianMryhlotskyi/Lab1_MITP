@@ -2,7 +2,7 @@
 #include<time.h> 
 
 using namespace std;
-
+\\коментар 
 int Login(int login, int arrlogin[], int a) {
 	for (int i = 0; i < a; i++)
 	{
